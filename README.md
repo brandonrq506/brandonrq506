@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandonrq506
-- 👀 I’m interested in understanding how everything works, from a ATM to a plant doing photosynthesis
-- 🌱 I’m currently learning Java, C# and Web Development
+- 👀 I’m interested in understanding how everything works, from an ATM to a plant doing photosynthesis
+- 🌱 I've become with Typescript, React and Ruby on Rails.
 - 💞️ I’m looking to collaborate on many open-source projects. Hopefully get a taste of how working on a big project is, submitting PRs, commiting to get work experience.
 - 📫 How to reach me: Best way is my email darkrahd@gmail.com
 
